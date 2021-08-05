@@ -8,6 +8,7 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
+		System.out.println("Qual será sua data de aniversário nesse ano? ");
 		int dia = sc.nextInt();
 		int mes = sc.nextInt();
 		int ano = sc.nextInt();
